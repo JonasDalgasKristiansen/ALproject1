@@ -10,6 +10,6 @@ pageextension 50100 VendorListExt extends "Vendor List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello Jonas ');
+        Message('App published: Hello Jonas og Freddy ');
     end;
 }
